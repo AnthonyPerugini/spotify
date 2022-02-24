@@ -4,7 +4,7 @@ I would like to use the spotify API to automate some of the common tasks I end u
 # TASKS TO AUTOMATE:
 
 ## [x] update the 'All' playlist to have all songs from each of my playlists on a whitelist
-### WL: ['Two Perceptrons', 'escecially you', 'pineapple pizzas', 'some pandora you are', 'koala tea', 'lookin sharp // feelin flat', 'kisses', 'run A way', 'tension', 'dreads', 'filth', 'climb_rap']
+### WL: ['Two Perceptrons', 'escecially you', 'pineapple pizzas', 'some pandora you are', 'koala tea', 'lookin sharp // feelin flat', 'kisses', 'run A way', 'tension', 'dreads', 'filth', 'climb_rap', 'tacitly', 'turtles']
 ### delete duplicate songs
 
 ## [x] find all repeats throughout my playlists and report them
