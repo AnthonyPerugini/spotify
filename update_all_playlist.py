@@ -3,9 +3,6 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from collections import defaultdict
 
-
-os.environ["SPOTIPY_CLIENT_ID"] = '40c3f0b28da64baeb148fce63495574e'
-os.environ["SPOTIPY_CLIENT_SECRET"] = '9dce7b5efa554bbba7e9694352e8933e'
 os.environ["SPOTIPY_REDIRECT_URI"] = 'http://localhost:8080/callback'
 
 
